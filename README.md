@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Chavarria</h1>
-<h3 align="center">A passionate frontend developer from Mexico City and I am student of the University Tecnologico de Monclova</h3>
+<h3 align="center">A passionate frontend developer from Mexico City and I am student of the University Tecnologico Superior de Monclova</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
