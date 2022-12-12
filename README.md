@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Chavarria</h1>
-<h1 align="center">Matricula: I19050431 </h1>
+<h2 align="center">Matricula: I19050431 | Correo: I19050431@monclova.tecnm.mx</h2>
 <h3 align="center">A passionate frontend developer from Mexicoand I am student of the University Tecnologico Superior de Monclova</h3>
 
 <h3 align="left">Connect with me:</h3>
